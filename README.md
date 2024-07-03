@@ -23,6 +23,7 @@ Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-U
 -   icons (FontAwesome, ReactIcons)
 -   inline CSS
 -   SVG images
+-   Favicon
 -   **NO** responsive design
 
 ## 🧰 Getting Started
